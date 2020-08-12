@@ -1,0 +1,14 @@
+.groups {
+  position: fixed;
+  right: 0;
+  top: 0;
+  flex-grow: 1;
+  max-width: 20vw;
+}
+
+.topGroup {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}

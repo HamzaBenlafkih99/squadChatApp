@@ -1,0 +1,51 @@
+.firstPicture {
+  width: 50%;
+  height: 90px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin-right: 2px;
+  margin-bottom: 0%;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+.secondPictue {
+  width: 50%;
+  height: 90px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin-bottom: 0%;
+}
+
+.Picture img {
+  width: 80px;
+  height: 80px;
+  border: 1px solid gray;
+  border-radius: 100%;
+  margin-top: -50px;
+  margin-left: 53px;
+}
+.topPages {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  border: 1px solid gray;
+  max-width: 80%;
+  padding: 5px;
+  border-radius: 5px;
+}
+.twoPictures {
+  display: flex;
+}
+.name {
+  margin-left: 75px;
+}
+
+.topGroup {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+/*---------------------------------------*/

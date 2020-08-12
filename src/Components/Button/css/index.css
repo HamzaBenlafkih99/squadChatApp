@@ -1,0 +1,12 @@
+.Button
+{
+    
+    padding: 0.6em 1.5em;
+    border-radius: 3em;
+    background-image: linear-gradient(to right,#3E53ec , #6B0cb6);
+    color: white;
+    border: none;
+    font-size: 13px;
+    font-weight: 500;
+    width: 150px; 
+}

@@ -1,0 +1,4 @@
+.containers {
+  display: flex;
+  align-items: stretch;
+}

@@ -1,0 +1,92 @@
+.Main {
+  margin-left: 18%; /* Same as the width of the sidenav */
+  padding: 30px 10px;
+  color: black;
+  width: 80%;
+}
+.CoverImage img {
+  height: 200px;
+  width: 75vw;
+  border-radius: 25px;
+  margin-left: 30px;
+}
+.DisplayCenter {
+  display: flex;
+}
+.ProfilImage img {
+  width: 100px;
+  height: auto;
+  border-radius: 70%;
+  margin-top: -100px;
+  margin-left: 35%;
+}
+.Button {
+  display: flex;
+  margin-top: 15px;
+  position: relative;
+  margin-left: 30px;
+}
+.Main h3 {
+  margin-left: 20%;
+}
+.Suggestions {
+  display: flex;
+  margin-top: 15px;
+  margin-left: 30px;
+}
+.Suggestions-div {
+  margin-right: 10px;
+}
+.Button-div {
+  margin-right: 10px;
+  display: flex;
+}
+.Button-div h6 {
+  margin-left: 8px;
+}
+
+  
+.ImageProfil {
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  margin-top: 30px;
+  padding: 0px 10px 10px 10px;
+}
+.ChoiceImage div a {
+  font-size: 19px;
+  color: white;
+  padding-left: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+.ChoiceImage div a:hover {
+  color: #f5c441;
+  font-size: 22px;
+}
+
+.ChoiceImage {
+  padding-top: 15px;
+  display: flex;
+}
+.Point {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: #f5c441;
+  margin-left: 250px;
+  margin-top: 5px;
+}
+.Images img {
+  height: 300px;
+  width: 250px;
+  margin-left: 6px;
+
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+.Images {
+  margin-top: 20px;
+  width: 90%;
+}
+

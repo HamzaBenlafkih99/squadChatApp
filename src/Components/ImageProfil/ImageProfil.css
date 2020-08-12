@@ -1,0 +1,44 @@
+  
+.ImageProfil {
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  margin-top: 30px;
+  padding: 0px 10px 10px 10px;
+}
+.ChoiceImage div a {
+  font-size: 19px;
+  color: white;
+  padding-left: 20px;
+  text-align: center;
+  text-decoration: none;
+}
+.ChoiceImage div a:hover {
+  color: #f5c441;
+  font-size: 22px;
+}
+
+.ChoiceImage {
+  padding-top: 15px;
+  display: flex;
+}
+.Point {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: #f5c441;
+  margin-left: 250px;
+  margin-top: 5px;
+}
+.Images img {
+  height: 300px;
+  width: 250px;
+  margin-left: 6px;
+
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+.Images {
+  margin-top: 20px;
+  width: 90%;
+}
